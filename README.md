@@ -2,7 +2,7 @@
 ### Hello World! Me chamo Felipe Amaral, seja bem vindo ao meu GitHub!👋👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-amaral-b51a4529a/)
- <a href ="mailto:felipeAmaral7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
+ <a href ="mailto:felipe.medeiros111099@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeAmaral7&hide_progress=true&theme=aura">
 
