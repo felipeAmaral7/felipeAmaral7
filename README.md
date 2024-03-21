@@ -1,6 +1,8 @@
 
 ### Hello World! Me chamo Felipe Amaral, seja bem vindo ao meu GitHub!👋👋
 
+ ![Snake animation](https://github.com/felipeAmaral7/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-amaral-b51a4529a/)
  <a href ="mailto:felipe.medeiros111099@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
 
