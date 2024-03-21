@@ -5,6 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeAmaral7&langs_count=8)
+
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeAmaral7&hide_progress=true&theme=aura">
 
 ## Tecnologias
