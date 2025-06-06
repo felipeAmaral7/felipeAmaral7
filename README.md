@@ -9,6 +9,7 @@
 ## &#X1F680; Tecnologias
   
 <div styLe="display: inline_block"><br/>
+  <img align="center" alt="Kotlin" src="https://img.shields.io/badge/kotlin-9721b5?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
